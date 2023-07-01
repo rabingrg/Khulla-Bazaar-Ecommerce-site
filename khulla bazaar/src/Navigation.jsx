@@ -15,7 +15,7 @@ const Navigation = () => {
 
   return (
     <>
-      <div className="fixed flex justify-between bg-[#95a5a6] items-center h-[15vh] w-full top-0 z-10" >
+      <div className="fixed flex justify-between bg-[#95a5a6] items-center h-[11vh] w-full top-0 z-10" >
         <span>
           <Link to="/">
             <img src="img/kblogo.png" className="w-28 h-28 cursor-pointer" />
