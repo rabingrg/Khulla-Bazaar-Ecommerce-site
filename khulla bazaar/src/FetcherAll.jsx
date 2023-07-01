@@ -79,7 +79,7 @@ const FetcherAll = () => {
                       <br />
                     </div>
                     <br />
-                    <div className="flex justify-between align-middle my-0 mx-[5%]">
+                    <div className="relative flex justify-between bottom-0 mx-[5%]">
                       <Rating
                         name="size-small"
                         defaultValue={e.rating.rate}
